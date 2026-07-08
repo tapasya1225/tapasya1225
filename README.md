@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science, Patna Women's College, Bihar, India (Expected 2028)
+- 🎓 BSc in artificial intelligence and machine learning,Patna Women's College, Bihar, India (Expected 2028)
 - 💻 Full Stack (MERN) & Flutter Developer, currently exploring **AI/ML** in depth
 - 🧠 Building projects with **Deep Learning, CNNs, and AI APIs**
 - 🌱 Currently interning as an **AI & ML Intern** and **Full Stack Development Intern**
